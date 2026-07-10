@@ -6,5 +6,5 @@ This repository contains my Python learning journey.
 - Print statements
 - Variables
 - Type Casting
--Strings
--Conditional Statements
+- Strings
+- Conditional Statements
