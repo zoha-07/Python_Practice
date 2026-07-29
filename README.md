@@ -8,3 +8,4 @@ This repository contains my Python learning journey.
 - Type Casting
 - Strings
 - Conditional Statements
+- Functions
